@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32"
+   height="32"
+   xml:space="preserve"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="llama-1-inked.svg"
+   viewBox="0 0 32 32"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs1">
+  
+  
+ 
+   
+   
+  </defs><sodipodi:namedview
+   id="namedview1"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="16.59"
+   inkscape:cx="16.15431"
+   inkscape:cy="17.570826"
+   inkscape:window-width="1920"
+   inkscape:window-height="1009"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg1" />
+
+ <path
+   id="svg_2"
+   style="stroke-width:0.349032"
+   d="M 24.011948,0.24204917 21.924259,3.2187126 19.974618,12.881643 H 8.3532252 l -1.8795564,1.854805 1.0788865,0.664567 -0.1741509,10.504864 1.4611693,5.880672 H 10.02465 v -5.987515 l 3.164451,-3.814317 H 18.0271 v 3.814317 l 2.399886,5.987515 h 1.497273 L 21.26376,25.905879 24.638467,17.362664 V 5.5286716 h 2.087688 v -0.944498 l -3.270641,-1.401788 z m -11.20513,24.96293583 -1.635321,2.275769 1.114992,4.305797 h 1.391084 z" />
+</svg>
